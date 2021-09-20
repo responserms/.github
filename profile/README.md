@@ -1,6 +1,6 @@
 # Response
 
-Response is an open source CAD, MDT, and RMS for gaming communities. Response is build on the principle of being API-first, meaning integrating it with existing websites is simple. In addition to our API-first architecture, Response is designed to be extended in the backend through our powerful SDK. In the future we're hoping to offer an easy way to extend the Response Console with custom content and integrations.
+Response is an open source CAD, MDT, and RMS for gaming communities. Response is built on the principle of being API-first, meaning integrating with Response is as simple as integrating the API.
 
 ## Open Source
 
